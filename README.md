@@ -15,7 +15,7 @@ Customer segmentation is a critical strategic tool for retail businesses — ena
 - **951,669** transactional records (April 2012 – October 2016)
 - **68,300** unique customers across **47 countries** on five continents
 - 20 features covering order details, customer demographics, and order metadata
-- Source: SAS e-commerce dataset via Cambridge University CAM DS101 course platform
+- Source: 'https://github.com/FourthRevGitHub/CAM_DS_Public-Data-Sets/raw/main/Course%201/Week%206/CUSTOMERS_CLEAN.zip'
 
 ---
 
